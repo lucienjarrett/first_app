@@ -1,11 +1,9 @@
-first app tutorial
+#Ruby on Rails Tutorial: first application 
 ==
 
+This application is the first application for
+[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
+by [Michael Hartl](http://michaelhartl.com/).
 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
 
